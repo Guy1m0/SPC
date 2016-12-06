@@ -1,0 +1,549 @@
+RT @ABCMundial: #Trump se enojó después de las críticas de China por hablar con Tsai Ing-wen
+ #Taiwan @Taiwan_Argentin @ABCMundial…  
+
+---------------------------Analysis-------------------------------
+
+word: se inverse document frequcney: 71.4642857143 
+
+word: enoj inverse document frequcney: 2001.0 
+
+word: despus inverse document frequcney: 2001.0 
+
+word: las inverse document frequcney: 2001.0 
+
+word: crticas inverse document frequcney: 2001.0 
+
+word: china inverse document frequcney: 45.4772727273 
+
+word: por inverse document frequcney: 222.333333333 
+
+word: hablar inverse document frequcney: 2001.0 
+
+word: con inverse document frequcney: 100.05 
+
+word: tsai inverse document frequcney: 2001.0 
+
+word: ing-wen inverse document frequcney: 2001.0 
+
+word: #taiwan inverse document frequcney: 71.4642857143 
+
+total value: 14517.7891775 effective words: 12 
+
+risk value: 1209.81576479 
+
+risk level break point: [1000.5, 500.25, 250.125, 166.75] 
+
+risk level: 1
+--------------------------------------------------------------
+RT @CoqResistant: En 2016 je suis 🇺🇸#Trump, je suis 🇬🇧#Brexit, aujourd'hui je suis 🇮🇹#referendumcostituzionale #RenziACasa
+
+En 2017 j'espèr… 
+
+---------------------------Analysis-------------------------------
+
+word: en inverse document frequcney: 24.4024390244 
+
+word: 2016 inverse document frequcney: 62.53125 
+
+word: je inverse document frequcney: 1000.5 
+
+word: suis inverse document frequcney: 2001.0 
+
+word: #trump inverse document frequcney: 7.32967032967 
+
+word: je inverse document frequcney: 1000.5 
+
+word: suis inverse document frequcney: 2001.0 
+
+word: #brexit inverse document frequcney: 10.5315789474 
+
+word: aujourdhui inverse document frequcney: 2001.0 
+
+word: je inverse document frequcney: 1000.5 
+
+word: suis inverse document frequcney: 2001.0 
+
+word: #referendumcostituzionale inverse document frequcney: 400.2 
+
+word: #renziacasa inverse document frequcney: 2001.0 
+
+word: en inverse document frequcney: 24.4024390244 
+
+word: 2017 inverse document frequcney: 181.909090909 
+
+word: jespr inverse document frequcney: 2001.0 
+
+total value: 15718.8064682 effective words: 16 
+
+risk value: 982.425404265 
+
+risk level break point: [1000.5, 500.25, 250.125, 166.75] 
+
+risk level: 2
+--------------------------------------------------------------
+RT @TheOneLadyEagle: #TRUMP, WE WANT AN AUDIT!!!!!  WE WANT TO SEE THE RESULTS!!!!!! https://t.co/cgPAA6NHeX 
+
+---------------------------Analysis-------------------------------
+
+word: #trump inverse document frequcney: 7.32967032967 
+
+word: audit inverse document frequcney: 1000.5 
+
+word: results inverse document frequcney: 500.25 
+
+total value: 1508.07967033 effective words: 3 
+
+risk value: 502.693223443 
+
+risk level break point: [1000.5, 500.25, 250.125, 166.75] 
+
+risk level: 2
+--------------------------------------------------------------
+RT @GoldStarMomTX55: #OpenBorders 
+EXTREME VETTING
+#BuildTheWall #Trump 
+Daughter top EU official raped &amp; murdered Germany
+Afghan migrant h… 
+
+---------------------------Analysis-------------------------------
+
+word: #openborders inverse document frequcney: 1000.5 
+
+word: extreme inverse document frequcney: 1000.5 
+
+word: vetting inverse document frequcney: 1000.5 
+
+word: #buildthewall inverse document frequcney: 1000.5 
+
+word: daughter inverse document frequcney: 500.25 
+
+word: top inverse document frequcney: 333.5 
+
+word: eu inverse document frequcney: 60.6363636364 
+
+word: official inverse document frequcney: 333.5 
+
+word: raped inverse document frequcney: 1000.5 
+
+word: murdered inverse document frequcney: 1000.5 
+
+word: germany inverse document frequcney: 667.0 
+
+word: afghan inverse document frequcney: 1000.5 
+
+word: migrant inverse document frequcney: 1000.5 
+
+word: h inverse document frequcney: 16.4016393443 
+
+total value: 9915.28800298 effective words: 14 
+
+risk value: 708.234857356 
+
+risk level break point: [1000.5, 500.25, 250.125, 166.75] 
+
+risk level: 2
+--------------------------------------------------------------
+RT @UnsolvedRHYME: This is a GREAT CLIP from 
+one of our country's HEROES, 
+DICK Cheney. He let's #CNN
+Reporterette know that #TRUMP
+c…  
+
+---------------------------Analysis-------------------------------
+
+word: clip inverse document frequcney: 2001.0 
+
+word: countrys inverse document frequcney: 2001.0 
+
+word: heroes inverse document frequcney: 2001.0 
+
+word: dick inverse document frequcney: 1000.5 
+
+word: cheney inverse document frequcney: 2001.0 
+
+word: lets inverse document frequcney: 400.2 
+
+word: #cnn inverse document frequcney: 400.2 
+
+word: reporterette inverse document frequcney: 2001.0 
+
+word: c inverse document frequcney: 181.909090909 
+
+total value: 11987.8090909 effective words: 9 
+
+risk value: 1331.97878788 
+
+risk level break point: [1000.5, 500.25, 250.125, 166.75] 
+
+risk level: 1
+--------------------------------------------------------------
+The latest Maluco's Bulls RS! https://t.co/5087eDAMsG Thanks to @_onsv @OCarreteiro_ @luis_araujo_ #nba #mlb 
+
+---------------------------Analysis-------------------------------
+
+word: latest inverse document frequcney: 192.346153846 
+
+word: malucos inverse document frequcney: 5001.0 
+
+word: bulls inverse document frequcney: 80.6612903226 
+
+word: rs inverse document frequcney: 2500.5 
+
+word: thanks inverse document frequcney: 263.210526316 
+
+word: #mlb inverse document frequcney: 69.4583333333 
+
+total value: 8107.17630382 effective words: 6 
+
+risk value: 1351.19605064 
+
+risk level break point: [1667.0, 833.5, 500.1, 312.5625] 
+
+risk level: 2
+--------------------------------------------------------------
+RT @ghanafans: Westbrook Hits 5th Straight Triple-Double in Win Versus Pelicans
+Watch NBA Daily Recap: https://t.co/H2ICvdXHKh 
+#Sports #Ne… 
+
+---------------------------Analysis-------------------------------
+
+word: westbrook inverse document frequcney: 17.8607142857 
+
+word: hits inverse document frequcney: 81.9836065574 
+
+word: 5th inverse document frequcney: 131.605263158 
+
+word: straight inverse document frequcney: 58.8352941176 
+
+word: triple-double inverse document frequcney: 56.191011236 
+
+word: win inverse document frequcney: 62.5125 
+
+word: versus inverse document frequcney: 5001.0 
+
+word: pelicans inverse document frequcney: 76.9384615385 
+
+word: watch inverse document frequcney: 68.5068493151 
+
+word: nba inverse document frequcney: 10.1646341463 
+
+word: daily inverse document frequcney: 294.176470588 
+
+word: recap inverse document frequcney: 119.071428571 
+
+word: #sports inverse document frequcney: 40.9918032787 
+
+word: #ne inverse document frequcney: 5001.0 
+
+total value: 11020.8380368 effective words: 14 
+
+risk value: 787.202716914 
+
+risk level break point: [1667.0, 833.5, 500.1, 312.5625] 
+
+risk level: 3
+--------------------------------------------------------------
+Open your account and get in on the #NBA #NHL action at https://t.co/bkPPjZojPY https://t.co/S3vuK9tHGr 
+
+---------------------------Analysis-------------------------------
+
+word: open inverse document frequcney: 156.28125 
+
+word: account inverse document frequcney: 125.025 
+
+word: #nhl inverse document frequcney: 44.6517857143 
+
+word: action inverse document frequcney: 217.434782609 
+
+total value: 543.392818323 effective words: 4 
+
+risk value: 135.848204581 
+
+risk level break point: [1667.0, 833.5, 500.1, 312.5625] 
+
+no risk
+--------------------------------------------------------------
+Sunday's Top 5 Plays #nba https://t.co/XD7vU6wdQV https://t.co/AnnECB7jHP 
+
+---------------------------Analysis-------------------------------
+
+word: sundays inverse document frequcney: 625.125 
+
+word: top inverse document frequcney: 51.5567010309 
+
+word: plays inverse document frequcney: 113.659090909 
+
+total value: 790.34079194 effective words: 3 
+
+risk value: 263.446930647 
+
+risk level break point: [1667.0, 833.5, 500.1, 312.5625] 
+
+no risk
+--------------------------------------------------------------
+Every Day is #Gameday on #FantasyDraft #DailyFantasy #NFL #MLB #NBA #NHL #PGA https://t.co/BNtyt0YgHF https://t.co/sgycaAi1Xo 
+
+---------------------------Analysis-------------------------------
+
+word: #gameday inverse document frequcney: 1250.25 
+
+word: #fantasydraft inverse document frequcney: 5001.0 
+
+word: #dailyfantasy inverse document frequcney: 5001.0 
+
+word: #nfl inverse document frequcney: 54.3586956522 
+
+word: #mlb inverse document frequcney: 69.4583333333 
+
+word: #nhl inverse document frequcney: 44.6517857143 
+
+word: #pga inverse document frequcney: 2500.5 
+
+total value: 13921.2188147 effective words: 7 
+
+risk value: 1988.74554496 
+
+risk level break point: [1667.0, 833.5, 500.1, 312.5625] 
+
+risk level: 1
+--------------------------------------------------------------
+Russell Westbrook logró Triple-Doble de 28 puntos, 17 rebotes y 12 asistencias, y el #Thunder le ganó 101-92 a los… https://t.co/5AEkNhOtKA 
+
+---------------------------Analysis-------------------------------
+
+word: russell inverse document frequcney: 33.7905405405 
+
+word: westbrook inverse document frequcney: 17.8607142857 
+
+word: logr inverse document frequcney: 1000.2 
+
+word: triple-doble inverse document frequcney: 119.071428571 
+
+word: puntos inverse document frequcney: 121.975609756 
+
+word: rebotes inverse document frequcney: 166.7 
+
+word: y inverse document frequcney: 40.9918032787 
+
+word: asistencias inverse document frequcney: 151.545454545 
+
+word: y inverse document frequcney: 40.9918032787 
+
+word: el inverse document frequcney: 46.738317757 
+
+word: #thunder inverse document frequcney: 43.8684210526 
+
+word: le inverse document frequcney: 156.28125 
+
+word: gan inverse document frequcney: 5001.0 
+
+word: 101-92 inverse document frequcney: 294.176470588 
+
+word: los inverse document frequcney: 27.6298342541 
+
+total value: 7262.82164791 effective words: 15 
+
+risk value: 484.188109861 
+
+risk level break point: [1667.0, 833.5, 500.1, 312.5625] 
+
+risk level: 4
+--------------------------------------------------------------
+RT @Dwyane_Wade_Fan: TIX https://t.co/YuBXeV4Fzy L L B 2006 #NBA Finals Miami #Heat vs Dallas Mavericks 06/15/06 #Tickets Stub… https://t.c… 
+
+---------------------------Analysis-------------------------------
+
+word: tix inverse document frequcney: 625.125 
+
+word: l inverse document frequcney: 68.5068493151 
+
+word: l inverse document frequcney: 68.5068493151 
+
+word: b inverse document frequcney: 500.1 
+
+word: 2006 inverse document frequcney: 294.176470588 
+
+word: finals inverse document frequcney: 185.222222222 
+
+word: miami inverse document frequcney: 96.1730769231 
+
+word: #heat inverse document frequcney: 263.210526316 
+
+word: vs inverse document frequcney: 39.0703125 
+
+word: dallas inverse document frequcney: 217.434782609 
+
+word: mavericks inverse document frequcney: 208.375 
+
+word: 061506 inverse document frequcney: 714.428571429 
+
+word: #tickets inverse document frequcney: 833.5 
+
+word: stub inverse document frequcney: 714.428571429 
+
+total value: 4828.25823265 effective words: 14 
+
+risk value: 344.875588046 
+
+risk level break point: [1667.0, 833.5, 500.1, 312.5625] 
+
+risk level: 4
+--------------------------------------------------------------
+RT @hispanosnba: Steven Adams deja el Thunder-Pelicans por un esguince de tobillo https://t.co/Ewm7K72Hn8 #NBA 
+
+---------------------------Analysis-------------------------------
+
+word: steven inverse document frequcney: 1250.25 
+
+word: adams inverse document frequcney: 833.5 
+
+word: deja inverse document frequcney: 1250.25 
+
+word: el inverse document frequcney: 46.738317757 
+
+word: thunder-pelicans inverse document frequcney: 1000.2 
+
+word: por inverse document frequcney: 100.02 
+
+word: un inverse document frequcney: 53.7741935484 
+
+word: esguince inverse document frequcney: 1667.0 
+
+word: tobillo inverse document frequcney: 1667.0 
+
+total value: 7868.73251131 effective words: 9 
+
+risk value: 874.303612367 
+
+risk level break point: [1667.0, 833.5, 500.1, 312.5625] 
+
+risk level: 2
+--------------------------------------------------------------
+Senior Financial Planning &amp; Analysis opportunity with Atlanta Hawks Basketball Club https://t.co/4HAOZzlyPJ #nba #finance 
+
+---------------------------Analysis-------------------------------
+
+word: senior inverse document frequcney: 5001.0 
+
+word: financial inverse document frequcney: 5001.0 
+
+word: planning inverse document frequcney: 5001.0 
+
+word: analysis inverse document frequcney: 5001.0 
+
+word: opportunity inverse document frequcney: 5001.0 
+
+word: atlanta inverse document frequcney: 128.230769231 
+
+word: hawks inverse document frequcney: 106.404255319 
+
+word: basketball inverse document frequcney: 28.4147727273 
+
+word: club inverse document frequcney: 1000.2 
+
+word: #finance inverse document frequcney: 5001.0 
+
+total value: 31269.2497973 effective words: 10 
+
+risk value: 3126.92497973 
+
+risk level break point: [1667.0, 833.5, 500.1, 312.5625] 
+
+risk level: 1
+--------------------------------------------------------------
+RT @DavidAvritt: #TheNewsClub Leo Varadkar: Those who paid water bills can't end up worse off https://t.co/ZF38LfPNOO #Ireland #NBA…  
+
+---------------------------Analysis-------------------------------
+
+word: #thenewsclub inverse document frequcney: 102.06122449 
+
+word: leo inverse document frequcney: 2500.5 
+
+word: varadkar inverse document frequcney: 2500.5 
+
+word: paid inverse document frequcney: 416.75 
+
+word: bills inverse document frequcney: 2500.5 
+
+word: cant inverse document frequcney: 833.5 
+
+word: worse inverse document frequcney: 1667.0 
+
+word: #ireland inverse document frequcney: 238.142857143 
+
+word: #nba inverse document frequcney: 11.9928057554 
+
+total value: 10770.9468874 effective words: 9 
+
+risk value: 1196.77187638 
+
+risk level break point: [1667.0, 833.5, 500.1, 312.5625] 
+
+risk level: 2
+--------------------------------------------------------------
+RT @ghanafans: Westbrook Hits 5th Straight Triple-Double in Win Versus Pelicans 
+
+---------------------------Analysis-------------------------------
+
+word: westbrook inverse document frequcney: 17.8607142857 
+
+word: hits inverse document frequcney: 81.9836065574 
+
+word: 5th inverse document frequcney: 131.605263158 
+
+word: straight inverse document frequcney: 58.8352941176 
+
+word: triple-double inverse document frequcney: 56.191011236 
+
+word: win inverse document frequcney: 62.5125 
+
+word: versus inverse document frequcney: 5001.0 
+
+word: pelicans inverse document frequcney: 76.9384615385 
+
+total value: 5486.92685089 effective words: 8 
+
+risk value: 685.865856362 
+
+risk level break point: [1667.0, 833.5, 500.1, 312.5625] 
+
+risk level: 3
+--------------------------------------------------------------
+RT @ghanafans: Westbrook Hits 5th Straight Triple-Double in Win Versus Pelicans #abz #CNN #asdjlfkj #sdflj cars house 
+
+---------------------------Analysis-------------------------------
+
+word: westbrook inverse document frequcney: 17.8607142857 
+
+word: hits inverse document frequcney: 81.9836065574 
+
+word: 5th inverse document frequcney: 131.605263158 
+
+word: straight inverse document frequcney: 58.8352941176 
+
+word: triple-double inverse document frequcney: 56.191011236 
+
+word: win inverse document frequcney: 62.5125 
+
+word: versus inverse document frequcney: 5001.0 
+
+word: pelicans inverse document frequcney: 76.9384615385 
+
+word: #abz inverse document frequcney: 5001.0 
+
+word: #cnn inverse document frequcney: 5001.0 
+
+word: #asdjlfkj inverse document frequcney: 5001.0 
+
+word: #sdflj inverse document frequcney: 5001.0 
+
+word: cars inverse document frequcney: 5001.0 
+
+total value: 30491.9268509 effective words: 13 
+
+risk value: 2345.53283468 
+
+risk level break point: [1667.0, 833.5, 500.1, 312.5625] 
+
+risk level: 1
+--------------------------------------------------------------
